@@ -9,3 +9,5 @@ Players can form words with characters placed by other players (and with charact
 In every turn every player can choose to either place a character token on the board, or withdraw a new token from
 the token bank. Each player can hold up to 9 tokens at his disposal at any given moment.
 The bank starts with 50 tokens. When the bank empties, the game is over - the player with most points wins.
+
+Run main.py script to initiate.
